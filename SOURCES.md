@@ -10,10 +10,16 @@ https://www.youtube.com/audiolibrary/soundeffects
 I found the specific sound under "walking in a mud puddle sound effect"
 
 3) Rivers and Roads, by The Head and the Heart
-Because I am using the introductory 15-25 seconds of 'oohs', not the lyrics of this song, and because I'm 
-only using this for educational purposes, and not claiming it as my own, I feel that it is ok to use this 
-song, at least this portion. I used the soundclip multiple times in my soundscape, so this music plays for
-longer than thirty seconds, but that's because of the copy/paste I used to extend the time. 
+I will use this asset under fair use, for the following reasons:
+First, the purpose of the use is for nonprofit and educational pruposes. I am using this to better understand how to 
+implement sounds to create a narrative and to understand how Audacity works. 
+Secondly, this work is pubslished by a well-known band, The Head and the Heart. 
+Third, I am using a small non-lyrical portion of the song in my soundscape.
+I will be using the introductory <30 seconds of 'oohs'. I used the soundclip multiple times in my soundscape,
+so this music plays for longer than thirty seconds, but that's because of the copy/paste I used to extend the time. 
+Lastly, the my re-use will not affect the market value or sales of the original song because I'm using this only for
+educational pruposes and I do not intend on using this soundscape for profit. It will only be listened to by me, my
+professor, and classmates. 
 
 4) 4 responses to question: I asked them all before recording their voice, and I actually used my own voice
 to say one of their responses, because even after much manipulation, I was unable to make the response sound
