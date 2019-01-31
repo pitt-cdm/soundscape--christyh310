@@ -33,6 +33,11 @@ Here is the link to the specific sound used:
 https://www.youtube.com/watch?v=J6G0EuPAoKQ
 
 6) shade sound was recorded by Ben, and he gave it freely to us to use for this project
+ 
+7) Door Slam
+Door Slam sound effects all sounds
+https://www.youtube.com/watch?v=GRHw8nkLhSs&t=22s
+Big Horns Intro performs Audionautix with a Creative Commons Attribution license 
 
 All of my other assets were personally recorded, and are included in the "assets" page,
 so will not be included here. 
