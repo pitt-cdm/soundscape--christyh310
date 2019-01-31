@@ -39,5 +39,11 @@ Door Slam sound effects all sounds
 https://www.youtube.com/watch?v=GRHw8nkLhSs&t=22s
 Big Horns Intro performs Audionautix with a Creative Commons Attribution license 
 
+8) Whistle
+whistle blowing sound effect
+https://www.youtube.com/watch?v=GaZervsT5S8, from "Sound Effects"
+-Free to use
+
+
 All of my other assets were personally recorded, and are included in the "assets" page,
 so will not be included here. 
